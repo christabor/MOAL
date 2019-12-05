@@ -19,7 +19,7 @@ factory-boy==2.7.0
 fake-factory==0.5.7
 Faker==0.1.4
 fixtures==2.0.0
-Flask==0.10.1
+Flask==1.0
 Flask-PyMongo==0.4.1
 funcsigs==1.0.2
 fuzzywuzzy==0.10.0
